@@ -196,7 +196,7 @@
           ]
         },
         "protectedSettings": {
-          "commandToExecute": "[concat('sh install_lamp.sh ', parameters('mySqlPassword'))]"
+          "commandToExecute": "[concat('sh install.sh ', parameters('mySqlPassword'))]"
         }
       }
     }
