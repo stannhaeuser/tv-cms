@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountNamePrefix": {
-      "value": "GEN-UNIQUE-11"
+      "value": "jdstvcms03"
     },
     "adminUsername": {
-      "value": "azureUser"
+      "value": "jds"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "85ASkl#"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "jdstvcms03"
     },
     "mySqlPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "85ASkl#"
     }
   }
 }
