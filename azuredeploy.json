@@ -192,7 +192,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/lamp-app/install_lamp.sh"
+            "https://raw.githubusercontent.com/stannhaeuser/tv-cms/master/install.sh"
           ]
         },
         "protectedSettings": {
